@@ -25,7 +25,7 @@ print("Please select an option that you want run\n")
 while True:
     print("1) Basic System Information")
     print("2) Get Wifi Passwords")
-    print("3) Basic System Information")
+    print("3) Basic Local User Information")
     print("4) Exite Program")
 
     choice = input("Enter choice: ")
