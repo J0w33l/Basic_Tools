@@ -26,7 +26,7 @@ while True:
     print("1) Basic System Information")
     print("2) Get Wifi Passwords")
     print("3) Basic Local User Information")
-    print("4) Exite Program")
+    print("4) Exit Program")
 
     choice = input("Enter choice: ")
     choice = choice.strip()
